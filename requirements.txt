@@ -23,7 +23,7 @@ pip-tools>=6.12.1
 pyparsing==2.4.5
 einops==0.3.2
 pycocotools==2.0.6
-protobuf==3.20.a
+protobuf==3.20.1
 treelib==1.6.1
 termcolor==1.1.0
 packaging>=20.4
